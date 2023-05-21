@@ -3,7 +3,7 @@
 This template has been designed to get you up and running with a new Clinical Office MPage
 with as little effort as possible.
 
-This template will support any version of Angular 15 or higher and is to be used only
+This template will support any version of Angular 16 or higher and is to be used only
 in projects where the Microsoft Edge WebView controller is used as this project will not
 render in Internet Explorer.
 
@@ -82,4 +82,4 @@ normally required to initiate an MPage.
 
 # MpageTemplate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
