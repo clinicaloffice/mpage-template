@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+// Adjust the html font-size to a base value for your application
+// Standard Angular Material - 16px, Compressed - 12 or 10px;
+html {
+  font-size: 12px;
+}
+
+:root {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
